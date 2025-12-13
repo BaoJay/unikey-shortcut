@@ -61,6 +61,7 @@ kt-ru:Rutơ
 kts:kiến trúc sư
 kt-sa:Sáng Thế Ký
 kt-td:Truyền Đạo
+kt-thi:Thi Thiêng
 kt-tth:Thi-thiên
 kt-xu:Xuất Êdíptô Ký
 l110:Một phần mười
@@ -69,13 +70,16 @@ ltt:lễ trọng thể
 lttr:lời tiên tri
 ndt:nhà đầu tư
 ng:người
+nhg:những
 ns:nghệ sĩ
 ntd:nước thiên đàng
 ntn:như thế nào
 pe:P/E
 pp:phương pháp
 pxcc:Phán Xét Cuối Cùng
+sab:sabbath
 scr:sự cứu rỗi
+ssdd:sự sống đời đời
 trc:trước
 tt:thị trường
 tyt:tình yêu thương
