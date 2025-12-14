@@ -79,6 +79,7 @@ pp:phương pháp
 pxcc:Phán Xét Cuối Cùng
 sab:sabbath
 scr:sự cứu rỗi
+sp:sản phẩm
 ssdd:sự sống đời đời
 trc:trước
 tt:thị trường
