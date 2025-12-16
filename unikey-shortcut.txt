@@ -1,4 +1,5 @@
 ;DO NOT DELETE THIS LINE*** version=1 ***
+bith:bình thường
 cp:cổ phiếu
 cty:công ty
 cvtl:công việc Tin Lành
@@ -74,6 +75,8 @@ nhg:những
 ns:nghệ sĩ
 ntd:nước thiên đàng
 ntn:như thế nào
+pbt:phân biệt
+pbu:phát biểu
 pe:P/E
 pp:phương pháp
 pxcc:Phán Xét Cuối Cùng
