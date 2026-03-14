@@ -1,4 +1,5 @@
-;DO NOT DELETE THIS LINE*** version=1 ***
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+ave:Adam & Eva
 bith:bình thường
 cp:cổ phiếu
 cty:công ty
