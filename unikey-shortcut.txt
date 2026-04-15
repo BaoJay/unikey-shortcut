@@ -77,6 +77,7 @@ lp:luật pháp
 ltt:lễ trọng thể
 lttr:lời tiên tri
 lvq:Lễ Vượt Qua
+mtr:môi trường
 ndt:nhà đầu tư
 ns:nghệ sĩ
 ntd:nước thiên đàng
