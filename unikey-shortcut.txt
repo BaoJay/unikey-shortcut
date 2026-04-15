@@ -95,3 +95,4 @@ ssdd:sự sống đời đời
 tt:thị trường
 tyt:tình yêu thương
 trc:trước
+vs:với
