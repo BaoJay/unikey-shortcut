@@ -14,9 +14,11 @@ dtl:Đức Thánh Linh
 hg:hông
 hs:học sinh
 javas:javascript
+jrs:jerusalem
 kith:Kinh Thánh
 ko:không
 kt-1co:I Côrinhtô
+kt-1gi:I Giăng
 kt-1phi:I Phierơ
 kt-1sa:I Samuên
 kt-1sk:I Sử Ký
@@ -24,12 +26,15 @@ kt-1te:I Têsalônica
 kt-1ti:I Timôthê
 kt-1vua:I Các Vua
 kt-2co:II Côrinhtô
+kt-2gi:II Giăng
 kt-2phi:II Phierơ
 kt-2sa:II Samuên
 kt-2sk:II Sử Ký
+kt-2su:II Sử Ký
 kt-2te:II Têsalônica
 kt-2ti:II Timôthê
 kt-2vua:II Các Vua
+kt-ag:Aghê
 kt-cac:Các Quan Xét
 kt-co:Côlôse
 kt-cong:Công Vụ Các Sứ đồ
@@ -44,6 +49,7 @@ kt-ext:Êxơtê
 kt-ga:Galati
 kt-gi:Giăng
 kt-gie:Giêrêmi
+kt-giop:Gióp
 kt-gios:Giôsuê
 kt-giu:Giuđe
 kt-he:Hêbơrơ
