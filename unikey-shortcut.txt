@@ -36,9 +36,9 @@ kt-2ti:II Timôthê
 kt-2vua:II Các Vua
 kt-ag:Aghê
 kt-cac:Các Quan Xét
-kt-ch:Châm Ngôn
 kt-co:Côlôse
 kt-cong:Công Vụ Các Sứ đồ
+kt-ch:Châm Ngôn
 kt-da:Đaniên
 kt-dan:Dân Số Ký
 kt-eps:Êphêsô
@@ -62,27 +62,28 @@ kt-mat:Mathiơ
 kt-mi:Michê
 kt-nc:Nhã Ca
 kt-nhm:Nêhêmi
-kt-phi:Philíp
 kt-pt:Phục Truyền Luật Lệ Ký
+kt-phi:Philíp
 kt-ro:Rôma
 kt-ru:Rutơ
 kts:kiến trúc sư
 kt-sa:Sáng Thế Ký
 kt-td:Truyền Đạo
-kt-thi:Thi Thiêng
 kt-tth:Thi-thiên
+kt-thi:Thi Thiêng
 kt-xu:Xuất Êdíptô Ký
 l110:Một phần mười
 lp:luật pháp
 ltt:lễ trọng thể
 lttr:lời tiên tri
 lvq:Lễ Vượt Qua
+mtr:môi trường
 ndt:nhà đầu tư
-ng:người
-nhg:những
 ns:nghệ sĩ
 ntd:nước thiên đàng
 ntn:như thế nào
+ng:người
+nhg:những
 pbt:phân biệt
 pbu:phát biểu
 pe:P/E
@@ -92,6 +93,7 @@ sab:sabbath
 scr:sự cứu rỗi
 sp:sản phẩm
 ssdd:sự sống đời đời
-trc:trước
 tt:thị trường
 tyt:tình yêu thương
+trc:trước
+vs:với
