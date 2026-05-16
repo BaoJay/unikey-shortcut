@@ -36,9 +36,9 @@ kt-2ti:II Timôthê
 kt-2vua:II Các Vua
 kt-ag:Aghê
 kt-cac:Các Quan Xét
+kt-ch:Châm Ngôn
 kt-co:Côlôse
 kt-cong:Công Vụ Các Sứ đồ
-kt-ch:Châm Ngôn
 kt-da:Đaniên
 kt-dan:Dân Số Ký
 kt-eps:Êphêsô
@@ -48,6 +48,7 @@ kt-exr:Êxơra
 kt-ext:Êxơtê
 kt-ga:Galati
 kt-gi:Giăng
+kt-gia:Gia cơ
 kt-gie:Giêrêmi
 kt-giop:Gióp
 kt-gios:Giôsuê
@@ -62,15 +63,15 @@ kt-mat:Mathiơ
 kt-mi:Michê
 kt-nc:Nhã Ca
 kt-nhm:Nêhêmi
-kt-pt:Phục Truyền Luật Lệ Ký
 kt-phi:Philíp
+kt-phu:Phục truyền Luật lệ Ký
 kt-ro:Rôma
 kt-ru:Rutơ
 kts:kiến trúc sư
 kt-sa:Sáng Thế Ký
 kt-td:Truyền Đạo
-kt-tth:Thi-thiên
 kt-thi:Thi Thiêng
+kt-tth:Thi-thiên
 kt-xu:Xuất Êdíptô Ký
 l110:Một phần mười
 lp:luật pháp
@@ -79,21 +80,26 @@ lttr:lời tiên tri
 lvq:Lễ Vượt Qua
 mtr:môi trường
 ndt:nhà đầu tư
+ng:người
+nhg:những
 ns:nghệ sĩ
 ntd:nước thiên đàng
 ntn:như thế nào
-ng:người
-nhg:những
 pbt:phân biệt
 pbu:phát biểu
 pe:P/E
+plh:phần linh hồn
 pp:phương pháp
 pxcc:Phán Xét Cuối Cùng
+pxt:phần xác thịt
 sab:sabbath
 scr:sự cứu rỗi
 sp:sản phẩm
 ssdd:sự sống đời đời
-tt:thị trường
-tyt:tình yêu thương
+th1:Cựu Ước
+th2:Tân Ước
 trc:trước
+tt:thị trường
+ttg:thập tự giá
+tyt:tình yêu thương
 vs:với
