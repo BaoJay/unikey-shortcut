@@ -1,0 +1,104 @@
+ave:Adam & Eva
+bith:bình thường
+cp:cổ phiếu
+cty:công ty
+cvtl:công việc Tin Lành
+dc:được
+dcj:Đức Chúa Jesus
+dcj1:Đức Chúa Jesus Sơ Lâm
+dcj2:Đức Chúa Jesus Tái Lâm
+dct:Đức Chúa Trời
+djh:Đức Giê-hô-va
+dtl:Đức Thánh Linh
+hg:hông
+hs:học sinh
+javas:javascript
+jrs:jerusalem
+kith:Kinh Thánh
+ko:không
+kt-1co:I Côrinhtô
+kt-1gi:I Giăng
+kt-1phi:I Phierơ
+kt-1sa:I Samuên
+kt-1sk:I Sử Ký
+kt-1te:I Têsalônica
+kt-1ti:I Timôthê
+kt-1vua:I Các Vua
+kt-2co:II Côrinhtô
+kt-2gi:II Giăng
+kt-2phi:II Phierơ
+kt-2sa:II Samuên
+kt-2sk:II Sử Ký
+kt-2su:II Sử Ký
+kt-2te:II Têsalônica
+kt-2ti:II Timôthê
+kt-2vua:II Các Vua
+kt-ag:Aghê
+kt-cac:Các Quan Xét
+kt-ch:Châm Ngôn
+kt-co:Côlôse
+kt-cong:Công Vụ Các Sứ đồ
+kt-da:Đaniên
+kt-dan:Dân Số Ký
+kt-eps:Êphêsô
+kt-es:Êsai
+kt-exe:Êxêchiên
+kt-exr:Êxơra
+kt-ext:Êxơtê
+kt-ga:Galati
+kt-gi:Giăng
+kt-gia:Gia cơ
+kt-gie:Giêrêmi
+kt-giop:Gióp
+kt-gios:Giôsuê
+kt-giu:Giuđe
+kt-he:Hêbơrơ
+kt-kh:Khải Huyền
+kt-le:Lê-vi Ký
+kt-lu:Luca
+kt-ma:Malachi
+kt-mac:Mác
+kt-mat:Mathiơ
+kt-mi:Michê
+kt-nc:Nhã Ca
+kt-nhm:Nêhêmi
+kt-phi:Philíp
+kt-phu:Phục truyền Luật lệ Ký
+kt-ro:Rôma
+kt-ru:Rutơ
+kts:kiến trúc sư
+kt-sa:Sáng Thế Ký
+kt-td:Truyền Đạo
+kt-thi:Thi Thiêng
+kt-tth:Thi-thiên
+kt-xu:Xuất Êdíptô Ký
+l110:Một phần mười
+lp:luật pháp
+ltt:lễ trọng thể
+lttr:lời tiên tri
+lvq:Lễ Vượt Qua
+mtr:môi trường
+ndt:nhà đầu tư
+ng:người
+nhg:những
+ns:nghệ sĩ
+ntd:nước thiên đàng
+ntn:như thế nào
+pbt:phân biệt
+pbu:phát biểu
+pe:P/E
+plh:phần linh hồn
+pp:phương pháp
+pxcc:Phán Xét Cuối Cùng
+pxt:phần xác thịt
+sab:sabbath
+scr:sự cứu rỗi
+sp:sản phẩm
+ssdd:sự sống đời đời
+th1:Cựu Ước
+th2:Tân Ước
+trc:trước
+tt:thị trường
+ttg:thập tự giá
+tyt:tình yêu thương
+vs:với

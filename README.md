@@ -10,25 +10,29 @@ Check các tùy chọn sau:
 
 Còn lại là tắt hết
 
-## Build EVKey shortcut file
+## Shortcut dictionary (Windows + macOS)
 
-The source of truth is:
+Chỉ sửa **một file duy nhất**: `shortcuts.txt`
 
-`unikey-shortcut.txt`
-
-Generate EVKey Mac format with:
-
-```bash
-python3 scripts/build-evkey.py
+```text
+dtl:Đức Thánh Linh
+ko:không
+# dòng bắt đầu bằng # là comment
 ```
 
-This generates:
-`evkey-shortcut.txt`
+Mỗi lần push lên `master`, GitHub Actions tự generate:
 
-Format conversion:
+| File | Dùng cho | Format |
+| --- | --- | --- |
+| `unikey-shortcut.txt` | Windows / UniKey | `shortcut:replacement` (UTF-8 BOM, CRLF) |
+| `evkey-shortcut.txt` | macOS / EVKey | `shortcut\|\|replacement` |
 
-UniKey:
-`shortcut:replacement`
+Không sửa trực tiếp 2 file trên — chúng sẽ bị ghi đè. Sau khi push, chạy `git pull` để lấy commit do bot tạo.
 
-EVKey:
-`shortcut||replacement`
+Build thử ở local:
+
+```bash
+python3 scripts/build.py
+```
+
+Build sẽ fail nếu có dòng thiếu `:`, thiếu nội dung, hoặc shortcut bị trùng.

@@ -1,0 +1,42 @@
+name: Build shortcut files
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - shortcuts.txt
+      - scripts/build.py
+      - .github/workflows/build-shortcuts.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-shortcuts
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate UniKey and EVKey files
+        run: python3 scripts/build.py
+
+      - name: Commit generated files
+        run: |
+          if git diff --quiet -- unikey-shortcut.txt evkey-shortcut.txt; then
+            echo "No changes in generated files."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add unikey-shortcut.txt evkey-shortcut.txt
+          git commit -m "chore: regenerate shortcut files"
+          git push
