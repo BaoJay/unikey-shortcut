@@ -82,6 +82,7 @@ mtr:môi trường
 ndt:nhà đầu tư
 ng:người
 nhg:những
+ngta:người ta
 ns:nghệ sĩ
 ntd:nước thiên đàng
 ntn:như thế nào
