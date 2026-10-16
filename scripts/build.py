@@ -11,6 +11,7 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 SOURCE_FILE = ROOT_DIR / "shortcuts.txt"
 UNIKEY_FILE = ROOT_DIR / "unikey-shortcut.txt"
 EVKEY_FILE = ROOT_DIR / "evkey-shortcut.txt"
+OPENKEY_FILE = ROOT_DIR / "openkey-shortcut.txt"
 
 UNIKEY_HEADER = ";DO NOT DELETE THIS LINE*** version=1 ***"
 EVKEY_HEADER = "Không được xoá dòng này<<<version=3>>>"
@@ -117,10 +118,18 @@ def build():
         newline="\n",
     )
 
+    # OpenKey (macOS): UniKey format, but UTF-8 without BOM and LF line endings.
+    # OpenKey only splits on "\n", so CRLF would leave "\r" in every replacement.
+    OPENKEY_FILE.write_text(
+        "\n".join(unikey_lines) + "\n",
+        encoding="utf-8",
+        newline="\n",
+    )
+
     print()
     print("✅ Shortcut files generated successfully")
     print(f"📄 Source : {SOURCE_FILE.name}")
-    print(f"📄 Output : {UNIKEY_FILE.name}, {EVKEY_FILE.name}")
+    print(f"📄 Output : {UNIKEY_FILE.name}, {EVKEY_FILE.name}, {OPENKEY_FILE.name}")
     print(f"🔤 Shortcuts: {len(entries)}")
     print()
 
