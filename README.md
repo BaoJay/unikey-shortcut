@@ -26,8 +26,11 @@ Mỗi lần push lên `master`, GitHub Actions tự generate:
 | --- | --- | --- |
 | `unikey-shortcut.txt` | Windows / UniKey | `shortcut:replacement` (UTF-8 BOM, CRLF) |
 | `evkey-shortcut.txt` | macOS / EVKey | `shortcut\|\|replacement` |
+| `openkey-shortcut.txt` | macOS / OpenKey | `shortcut:replacement` (UTF-8, LF) |
 
-Không sửa trực tiếp 2 file trên — chúng sẽ bị ghi đè. Sau khi push, chạy `git pull` để lấy commit do bot tạo.
+> ⚠️ Trên OpenKey, **không** import `unikey-shortcut.txt`: OpenKey chỉ tách dòng theo `\n`, nên `\r` của CRLF sẽ dính vào cuối mỗi từ và gõ tắt xong bị xuống dòng.
+
+Không sửa trực tiếp 3 file trên — chúng sẽ bị ghi đè. Sau khi push, chạy `git pull` để lấy commit do bot tạo.
 
 Build thử ở local:
 
